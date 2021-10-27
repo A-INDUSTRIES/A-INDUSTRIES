@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @A-INDUSTRIES
+- 👋 Hi, I’m __@A-INDUSTRIES__
 - 👀 I’m interested in computering in general.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning **Python**.
 - 📫 How to reach me: contact.daoust.a@gmail.com
 
 <!---
