@@ -1,6 +1,5 @@
 - 👋 Hi, I’m __@A-INDUSTRIES__
 - 👀 I’m interested in computering in general.
-- 🌱 I’m currently learning **Python**.
 - 📫 How to reach me: contact.aindustries@gmail.com
 
 <!---
