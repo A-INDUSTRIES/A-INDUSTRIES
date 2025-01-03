@@ -1,7 +1,0 @@
-format = '''
-[⎧](white)$directory(bold blue)$python(bold green)
-[⎩→](white) '''
-
-scan_timeout = 10
-
-add_newline = true
